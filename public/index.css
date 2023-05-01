@@ -1,9 +1,9 @@
-<<<<<<< HEAD
-*{  color: pink;}.container{    height: 100vh;    width: 100vw;    display: flex;    justify-content: center;    align-items: center;    font-size: xxx-large;    flex-direction: column;}    .date{    font-size: 30px;}
-=======
+
 *{
   color: pink;
+  
 }
+/* lzsample/app/YvhSr-5Oaf87oalRB0F7J1/entry.js */
 
 .container{
     height: 100vh;
@@ -18,4 +18,3 @@
 .date{
     font-size: 30px;
 }
->>>>>>> 463d8ca98eef34e23f5fadc0e2fc81c297111245
