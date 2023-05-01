@@ -132,3 +132,4 @@ dist
 # Move files from conceptjs to Local
 
 filesFromConcepttoLocal.js
+filesFromLocaltoConcept.js

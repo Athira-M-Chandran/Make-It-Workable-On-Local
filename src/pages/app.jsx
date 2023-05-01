@@ -17,6 +17,7 @@ const App = () => {
         <div class="container">
             <div >{text}</div>
             <div class="date">Date: {moment().format("DD-MMM-YYYY")}</div>
+            <div>Hai</div>
         </div>
     )
 
